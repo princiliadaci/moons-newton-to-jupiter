@@ -30,6 +30,6 @@ Compile twice with `pdflatex`. The AIMS Senegal Beamer template (`preamble.tex`)
 
 ## Credits
 
-Group 2: Bienvenu Andrinkasimanjakanarivo, Princilia Daci Yimete, Alpha Oumar Diallo, Ruth Guevine Massounga Mouloungui, Exaucé Kambale Maruba, Jacques Kodjitebaye.
+Group 2 mini-project at AIMS Senegal. Repository maintained by Princilia DACI.
 
 Photos: NASA, public domain (*Physics of the Moon*, NASA TN D-2944, 1966). Data: NASA and NASA/JPL. Full references are on the last two slides.
